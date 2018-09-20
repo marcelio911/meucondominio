@@ -1,0 +1,8 @@
+{
+  "name": "meucondominio",
+  "app_id": "b36c022a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
