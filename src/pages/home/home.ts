@@ -11,4 +11,6 @@ export class HomePage {
 
   }
 
+  items: ['1','2', '3']
+
 }
